@@ -30,5 +30,3 @@ because all these tasks are stored in localStorage of the browser. An user can a
 * Fork or clone the repository
 * Open the HTML file.
 
-## Known issues
-Application works only for Desktop screen resolution. For Mobile screen resolution in next version coming soon !!
