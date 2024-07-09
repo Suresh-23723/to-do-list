@@ -21,7 +21,11 @@ because all these tasks are stored in localStorage of the browser. An user can a
 
 ### Delete Tasks
 
-![Alt text](/images/delete.png?raw=true "Without Tasks")
+![Alt text](/images/delete.png?raw=true "Delete Tasks")
+
+### Mobile view
+
+![Alt text](/images/mobile_version.png?raw=true "Mobile")
 
 ## To use
 * Click the link attached to the description.
